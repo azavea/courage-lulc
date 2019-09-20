@@ -1,0 +1,4 @@
+img/*
+*.pth
+*.pyc
+.vscode
