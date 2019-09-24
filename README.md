@@ -1,7 +1,7 @@
 # Scripts for Land Cover Classification
 
 This repo contains scripts for the supervised classification of land
-cover in Iraq, Lebanon, and Syria.
+cover (forest, urban, agriculture) in Iraq, Lebanon, and Syria.
 
 ## modis-bootstrap
 In [modis-bootstrap](modis-bootstrap), sources which enable bootstrapping
